@@ -1,4 +1,4 @@
-<h3 align="center">Cookie</h3>
+<h3 align="center">Cookies</h3>
 
 <div align="center">
 
