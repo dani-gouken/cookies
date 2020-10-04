@@ -40,7 +40,7 @@ The recommended way to install is via Composer:
 
 
 ```
-composer require phpatom/cookie
+composer require phpatom/cookies
 ```
 
 
