@@ -1,4 +1,4 @@
-<h3 align="center">Cookie</h3>
+<h3 align="center">Cookies</h3>
 
 <div align="center">
 
@@ -40,7 +40,7 @@ The recommended way to install is via Composer:
 
 
 ```
-composer require phpatom/cookie
+composer require phpatom/cookies
 ```
 
 
