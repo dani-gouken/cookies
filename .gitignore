@@ -5,3 +5,5 @@ composer.phar
 /.idea/
 clover.xml
 .phpunit.result.cache
+.DS_Store
+.idea
