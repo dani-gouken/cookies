@@ -89,11 +89,11 @@ echo $myCookie->isHttpOnly(); // true
  echo $cookies->get("key"); //value 
  echo $cookies->get("badkey",'defaultValue'); // defaultValue
  var_dump($cookies->getCookies("badkey")); // RequestCookie;
- echo $cookies->get("has"); //value boolean
+ echo $cookies->has("key"); //value boolean
 
  //also works with responses
  $cookies = Cookies::of($response);
- var_dump($cookies->getCookies("badkey")); // RequestCookie;Cookie
+ var_dump($cookies->getCookie("badkey")); // RequestCookie;Cookie
 
 ```
 
